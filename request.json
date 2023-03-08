@@ -1,0 +1,6 @@
+{
+    "method": "validAnagram",
+    "params": ["race", "care"],
+    "prams_types": ["str", "str"],
+    "id": 1
+}

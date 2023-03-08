@@ -1,4 +1,4 @@
-UNIXドメインを用いてjsonファイルをtcpソケット通信で送信し, request.jsonにあるmethodを実行する.
+RPCの実装. UNIXドメインを用いてjsonファイルをtcpソケット通信で送信し, request.jsonにあるmethodを実行する.
 
 サーバはrequest.jsonを処理し,結果をresponse.jsonとしてユーザに送信する.
 
